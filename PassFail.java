@@ -7,5 +7,6 @@ public class PassFail {
         int marks = sc.nextInt();
         String Grade = (marks >= 33)? "Pass":"Fail";
         System.out.println(Grade);
+
     }
 }
